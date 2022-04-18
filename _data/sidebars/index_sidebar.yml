@@ -11,5 +11,11 @@ entries:
     - title: Welcome Page
       url: /index.html
       output: web
+    - title: Devices (ToH) (WIP)
+      url: /devices.html
+      output: web
+    - title: Development Status (WIP)
+      url: /devstat.html
+      output: web
 
 # Copyright 2021 Google LLC
