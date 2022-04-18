@@ -1,62 +1,15 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Index
-  product: Index
-  version: 1.0
+- title: Sidebar
+  levels: one
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
+  - title: Titles
+    output: web
     folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
-  - title: Introduction
-    output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: /p2_landing_page.html
+    - title: Welcome Page
+      url: /news.html
       output: web
-
-  - title: Simple Workflow
-    output: web, pdf
-    folderitems:
-
-    - title: Sample 1
-      url: /p2_sample1.html
-      output: web, pdf
-
-    - title: Sample 2
-      url: /p2_sample2.html
-      output: web, pdf
-
-    - title: Sample 3
-      url: /p2_sample3.html
-      output: web, pdf
-
-    - title: Sample 4
-      url: /p2_sample4.html
-      output: web, pdf
-
-    - title: Sample 5
-      url: /p2_sample5.html
-      output: web, pdf
-
-  - title: Complex Workflow
-    output: web, pdf
-    folderitems:
-
-    - title: Sample 6
-      url: /p2_sample6.html
-      output: web, pdf
 
 # Copyright 2021 Google LLC
