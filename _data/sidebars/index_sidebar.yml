@@ -11,7 +11,7 @@ entries:
     - title: Welcome Page
       url: /index.html
       output: web
-    - title: Devices (HWL) (WIP)
+    - title: Device Specs (WIP)
       url: /devices.html
       output: web
     - title: Development Status (WIP)
