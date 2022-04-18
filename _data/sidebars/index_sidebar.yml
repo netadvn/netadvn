@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: Welcome Page
-      url: /news.html
+      url: /index.html
       output: web
 
 # Copyright 2021 Google LLC
