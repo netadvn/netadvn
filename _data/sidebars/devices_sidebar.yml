@@ -1,0 +1,25 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Airties
+    output: web
+    folderitems:
+    - title: Air6271
+      url: /airties-air6271.html
+      output: web
+    - title: RT-102
+      url: /airties-rt102.html
+      output: web
+      
+  - title: Asus
+    output: web
+    folderitems:
+    - title: DSL-N14U
+      url: /asus-dsl-n14u.html
+      output: web
+
+# Copyright 2021 Google LLC
