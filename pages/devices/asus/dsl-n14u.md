@@ -1,7 +1,7 @@
 ---
 title: ASUS DSL-N14U ADSL modem router
 keywords: asus asuswrt dsl dsl-n14u n14u modem router
-summary: "(Page Status: WIP) Table Of Hardware (ToH) of DSL-N14U"
+summary: "(Page Status: WIP) Technical Specifications of DSL-N14U"
 sidebar: devices_sidebar
 permalink: asus-dsl-n14u.html
 folder: devices/asus
